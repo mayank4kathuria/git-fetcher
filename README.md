@@ -2,7 +2,7 @@
 <h1>Git Fetcher</h1>
 <h4>A React based Github user information fetcher application</h4>
 
-Link to Project [![Netlify Status](https://api.netlify.com/api/v1/badges/0bd3e7cc-b27d-44c9-a211-a3e18cc3ffb2/deploy-status)](https://app.netlify.com/sites/romantic-curie-27d858/deploys)
+Link to Project [Git Fetcher React App](https://romantic-curie-27d858.netlify.com)
 
 <p>A React Framework based Github user information fetcher Application which let's you 
 search user details and there work in a simple UI based application.</p>
