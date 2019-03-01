@@ -1,4 +1,5 @@
-// Repo Box Component
+
+// Repo Box Pure Stateless Component 
 
 import React from 'react';
 
@@ -9,6 +10,7 @@ const RepoBox = (props) => (
           <hr/>
         </a>
       </div>
+
 );
 
 
